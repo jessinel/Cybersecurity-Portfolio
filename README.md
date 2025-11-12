@@ -1,6 +1,7 @@
 # 🛡️ Cybersecurity Portfolio – Jessica Costta
 
 Welcome to my cybersecurity portfolio!  
+
 This repository showcases hands-on projects completed as part of the **Google Cybersecurity Certificate** and independent learning.  
 Each project demonstrates practical applications of cybersecurity principles across different domains, from Linux hardening to incident response and compliance audits.  
 
